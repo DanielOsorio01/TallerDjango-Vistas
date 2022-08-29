@@ -6,7 +6,8 @@
 
 **Variables:** El siguiente screenshot fue obtenido siguiendo la ruta:
 
-```http://127.0.0.1:8000/variables/
+```bash
+http://127.0.0.1:8000/variables/
 ```
 ![Variables](Screenshots/Variables.jpg)
 
