@@ -1,23 +1,18 @@
-# Monitoring Views Workshop
+# Taller 3.2 Vistas Django
 
-* if you want a easy installation use **pipenv\*** else use **requirements.txt**
+* Daniel Osorio Cárdenas 202022996
+* Javier Serrano Rodríguez 202023012
 
-**pipenv:** can be installed wih:
 
-```bash
-pip install pipenv
+**Variables:** El siguiente screenshot fue obtenido siguiendo la ruta:
+
+```http://127.0.0.1:8000/variables/
 ```
-
-dont forget to check if you have the right python version: 3.8
-
-* Executing with pipenv 
-```bash
-pipenv run python {command}
-```
-Example:
-```bash
-pipenv run python manage.py makemigrations 
-```
-
 ![Variables](Screenshots/Variables.jpg)
+
+**Measurements:** El siguiente screenshot fue obtenido siguiendo la ruta:
+
+```bash
+http://127.0.0.1:8000/measurements/
+```
 ![Measurements](Screenshots/Measurements.jpg)
